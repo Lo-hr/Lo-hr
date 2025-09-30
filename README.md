@@ -4,9 +4,18 @@
 
 Me chamo Lorran Alves.
 
-
-
 ### 🤖 Linguagens e Tecnologias
+
+---
+<a href = "https://github.com/Lo-hr/Lo-hr/edit/main/README.md">
+<img 
+    alt="Testando"
+    titles = "Um Teste BAsico"
+    src="https://custom-icon-badges.demolab.com/badge/Teste-yellow.svg?logo=issue-opened&logoColor=fff"/>
+</a>
+
+<br/>
+<br/>
 
 <img 
     align="left" 
@@ -57,3 +66,23 @@ Me chamo Lorran Alves.
 
 <br/>
 <br/>
+
+### 📈 Estastisticas
+<img 
+    align="left" 
+    alt="GitHub Stats"
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lo-hr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats"
+    height="200" 
+    style="padding-right: 50px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-hr&theme=tokyonight&layout_compact&custom_title=Tecnologias&langs_count=4" 
+/>
+
+<br/>
+<br/>
+
