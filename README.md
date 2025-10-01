@@ -6,17 +6,6 @@ Me chamo Lorran Alves.
 
 ### 🤖 Linguagens e Tecnologias
 
----
- <a href="https://github.com/Lo-hr?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Lo-hr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-     
----
-<br/>
-
 <img 
     align="left" 
     alt="HTML"
@@ -63,7 +52,19 @@ Me chamo Lorran Alves.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
+<br/>
 
+
+---
+ <a href="https://github.com/Lo-hr?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Lo-hr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+     
+---
 <br/>
 <br/>
 
